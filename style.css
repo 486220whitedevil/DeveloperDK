@@ -475,7 +475,7 @@ span{
     flex-direction: column;
 }
 .testimonials-box h2{
-    font-size: 5rem;
+    font-size: 5vh;
 }
 .testimonials .heading{
     margin-bottom: 5rem;
